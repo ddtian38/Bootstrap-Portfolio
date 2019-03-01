@@ -1,0 +1,42 @@
+body{
+    background-image: url("../images/concrete-texture.png");
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: white;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    border-bottom: 5px solid lightgray;
+}
+
+
+#title{
+    color:white; 
+    background-color: #b87324;
+    width: 20%;
+    text-align: center;
+}
+
+.navbar-nav {
+    /* text-align: center; */
+    margin-left: auto;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+    border-top: 8px solid #b87324;
+    color: white;
+    text-align: center;
+  }
+
+#footer-note{
+    color: white;
+}
+
+  #copyright{
+      font-size: 12px;
+  }
